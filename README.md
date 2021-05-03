@@ -1,2 +1,2 @@
-# imersao-dados-alura
-Repositório para armazenar os notebooks com os desafios da imersão de dados alura.
+# Imersão Dados Alura
+Repositório para armazenar os notebooks com os desafios da terceira Imersão Dados da alura.
