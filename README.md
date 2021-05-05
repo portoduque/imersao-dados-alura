@@ -7,3 +7,6 @@ Link Google Colab: https://colab.research.google.com/drive/1PvAhWAdQ9rBDXxKT198P
 ### Aula 2 - Estatísticas, visualização de dados e distribuições
 Link Google Colab: https://colab.research.google.com/drive/1ooHLJrZ-dPXfUzZiuYoECuPV5uuAw4Gl?usp=sharing
 
+### Aula 3 - Correlações, causalidade e relações entre genes.
+Link Google Colab: https://colab.research.google.com/drive/1r8EoXO9lnH3LMBN83fBExrzKuyHkaGwF?usp=sharing
+
