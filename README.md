@@ -12,3 +12,6 @@ Link Google Colab: https://colab.research.google.com/drive/1r8EoXO9lnH3LMBN83fBE
 
 ### Aula 4 - Merge de dados e análise de resultados
 Link Google Colab: https://colab.research.google.com/drive/1DploViUGgRltemYKn2A7hUUJo3HJjo6v?usp=sharing
+
+### Aula 5 - Machine Learning, Sci-kit learning e desafios envolvidos.
+Link Google Colab: https://colab.research.google.com/drive/1KHFyobsuQl2R-2d7qDTRJEc-i6QC5sol?usp=sharing
